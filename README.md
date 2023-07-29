@@ -1,7 +1,6 @@
-# 👋 Fala pessoal
+# 👋 Olá
 
-Eu sou a Bruna Carvalho, atualmente trabalho como Product Owner na ALPE. </br>
-Estudante de Sistemas de Informação na São Paulo Tech School - SPTech, me desafio todos os dias estando em contato com as mais diversas tecnologias.
+Eu sou a Bruna Carvalho, estudante de tecnologia e metida a artista nas horas vagas. 
 
 
 # # 🚀 Experiências

@@ -3,7 +3,7 @@
 Eu sou a Bruna Carvalho, estudante de tecnologia e metida a artista nas horas vagas. 
 
 
-# # 🚀 Experiências
+# 🚀 Experiências
 
 Durante os semestres da faculdade, realizamos projetos que envolveram IoT, monitoramento de hardware e sistema operacional de máquinas. e desenvolvimento de aplicações para facilitar o cotidiano na cadeia peer to peer (pessoa para pessoa). </br> 
 

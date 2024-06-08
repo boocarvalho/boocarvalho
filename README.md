@@ -1,6 +1,6 @@
 # 👋 Olá
 
-Eu sou a Bruna Carvalho, estudante de tecnologia e metida a artista nas horas vagas. 
+Estudante de tecnologia e metida a artista ;P 
 
 # 💻 Tecnologias:
 

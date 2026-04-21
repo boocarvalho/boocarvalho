@@ -1,6 +1,6 @@
-# 👋 Olá
+# 👋 Olá, sou a Bruna.
 
-Estudante de tecnologia e metida a artista ;P 
+Bacharel em Sistemas de Informação.
 
 # 💻 Tecnologias:
 
